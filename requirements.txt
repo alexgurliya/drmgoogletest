@@ -10,7 +10,7 @@ cloudscraper
 ffmpeg
 helper
 idna==3.4
-jinja2
+Jinja2==3.0.3
 mediainfo
 motor
 mutagen==1.46.0
@@ -25,10 +25,16 @@ requests==2.31.0
 soupsieve==2.4.1
 speedtest-cli
 telegraph==2.2.0
-tgcrypto
+TgCrypto==1.2.5
 telethon
 umongo==3.1.0
 urllib3==2.0.3
 websockets==11.0.3
 yt-dlp==2023.6.22
 ffmpeg-python
+pyrogram
+Flask==1.1.2
+gunicorn==20.1.0
+werkzeug==2.0.2
+itsdangerous==2.0.1
+pytube
